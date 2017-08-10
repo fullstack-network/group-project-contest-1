@@ -36,9 +36,9 @@ This means, you will need to create a seeding script that will consume the citib
 ![image](http://assets.avi.io/Documentation__CityBikes_API_2017-08-10_16-53-40.png)
 -- You can use Google maps for that or any other mapping service you wish.  
 -- You can use a pre-built library for that.
-2. Clicking on a network will display the stations in the network
+2. Clicking on a network will display the stations in the network  
 -- At this point, the map of the network should be filled with only the locations for the specific network and you should center it around the locations
-3. Clicking on a location will show the location details
+3. Clicking on a location will show the location details  
 -- The displayed content should be in a separate page or open a modal  
 -- The details should include everything in the citibike API and you should make an effort to make it look nice and be readable
 4. Clicking on a location will allow the user to update the number of available slots
@@ -54,6 +54,10 @@ You will be judged based on the project management just as much as on the projec
 ### Github flow
 
 You code **must** be open source and be managed on Github. You will create a PR for every feature and mark it clearly with the ticket on Trello. This way we can see if you are on target.
+
+Members should review their own code and get one of the judges to review as well.
+
+If you need to create the project under the-fullstack-network github org, we would love to provide that space for you.
 
 ## Prize
 
