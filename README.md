@@ -34,12 +34,12 @@ This means, you will need to create a seeding script that will consume the citib
 
 1. Display a map of all the networks 
 ![image](http://assets.avi.io/Documentation__CityBikes_API_2017-08-10_16-53-40.png)
--- You can use Google maps for that or any other mapping service you wish. 
+-- You can use Google maps for that or any other mapping service you wish.  
 -- You can use a pre-built library for that.
 2. Clicking on a network will display the stations in the network
 -- At this point, the map of the network should be filled with only the locations for the specific network and you should center it around the locations
 3. Clicking on a location will show the location details
--- The displayed content should be in a separate page or open a modal
+-- The displayed content should be in a separate page or open a modal  
 -- The details should include everything in the citibike API and you should make an effort to make it look nice and be readable
 4. Clicking on a location will allow the user to update the number of available slots
 5. Clicking on a location will allow the user to update and add reviews on the location
