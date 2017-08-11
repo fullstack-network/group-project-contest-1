@@ -8,7 +8,7 @@ It is simple enough to finish while also being complicated enough to be interest
 
 ## Who?
 
-This project came up as something that will benefit the memebers of [The Fullstack Network](https://fulllstack.network).
+This project came up as something that will benefit the members of [The Fullstack Network](https://fulllstack.network).
 
 * [Twitch](https://twitch.tv/KensoDev)
 * [Discord](http://avi.io/discord)
@@ -86,7 +86,7 @@ I ([KensoDev](https://github.com/KensoDev)) will personally mentor the first 3 t
 
 Mentoring will also include 1H of hands-on mentoring with the team members. You can bring your questions/comments and we get through them to solve problems.
 
-We will start@ the project together and discuss how we make it happen in the most efficient way.
+We will start the project together and discuss how we make it happen in the most efficient way.
 
 ## Nominate your team
 
