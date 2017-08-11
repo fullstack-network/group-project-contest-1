@@ -109,6 +109,10 @@ Any other information you feel will benefit you, feel free to include.
 
 ![Amazon gift cards](http://assets.avi.io/Web_Image_2017-08-10_17-16-27.png)
 
+## How to enter
+
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf_ZjacJ664MiOh1lzWgITykUfIFl9QddxeOsfLIy34sVhyuQ/viewform) and you will be contacted.
+
 ## Judges 
 
 TBD
