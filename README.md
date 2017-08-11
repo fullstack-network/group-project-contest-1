@@ -86,7 +86,22 @@ I ([KensoDev](https://github.com/KensoDev)) will personally mentor the first 3 t
 
 Mentoring will also include 1H of hands-on mentoring with the team members. You can bring your questions/comments and we get through them to solve problems.
 
-We will start the project together and discuss how we make it happen in the most efficient way.
+We will start@ the project together and discuss how we make it happen in the most efficient way.
+
+## Nominate your team
+
+In order to nominate your team, please open a PR for this project with the name of your team under the nominations directory.
+
+Give your team a name and name the file with your team name.
+
+### What should the application include
+
+1. Team members names.
+2. Link to team members github page
+3. Usernames on Discord so we can communicate on there
+4. Link to your trello where you started the planning
+
+Any other information you feel will benefit you, feel free to include.
 
 ## Prize
 
