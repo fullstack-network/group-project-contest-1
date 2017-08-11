@@ -71,6 +71,14 @@ Members should review their own code and get one of the judges to review as well
 
 If you need to create the project under the-fullstack-network github org, we would love to provide that space for you.
 
+## Mentoring
+
+I ([KensoDev](https://github.com/KensoDev)) will personally mentor the first 3 teams to get organized. Mentoring will include code review and looking over the project management.
+
+Mentoring will also include 1H of hands-on mentoring with the team members. You can bring your questions/comments and we get through them to solve problems.
+
+We will star the project together and discuss how we make it happen in the most efficient way.
+
 ## Prize
 
 TBD but it will be valued around 300-500$ (for the entire team. Probably Amazon gift cards).
