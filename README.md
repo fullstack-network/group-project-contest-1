@@ -6,6 +6,15 @@ This project is meant to be a teaching/learning tool for junior engineers and pe
 
 It is simple enough to finish while also being complicated enough to be interesting and challenging.
 
+## Who?
+
+This project came up as something that will benefit the memebers of [The Fullstack Network](https://fulllstack.network).
+
+* [Twitch](https://twitch.tv/KensoDev)
+* [Discord](http://avi.io/discord)
+* [Reddit](http://avi.io/reddit)
+* [YouTube](https://www.youtube.com/channel/UCuFT6CtDnOGvcn9WdAvBusA)
+
 ## Team size
 
 This project works best with 2-3 people. You will team up for the project as you wish.
