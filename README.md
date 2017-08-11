@@ -1,5 +1,13 @@
 # Bike network location finder
 
+## What is this project
+
+This project is meant to be a teaching/learning tool for junior engineers and people that want to learn how to work in a team.
+
+It is simple enough to finish while also being complicated enough to be interesting and challenging.
+
+## Team size
+
 This project works best with 2-3 people. You will team up for the project as you wish.
 
 ## Project description
@@ -29,6 +37,10 @@ Server side for this project can be written in any language you'd like and backe
 You should be using the initial citibike API for seeding your data, you should not use it in any other way. In real time, the API should query your database and not communicate with the citybike API.
 
 This means, you will need to create a seeding script that will consume the citibike API and fill your database with initial data in dev.
+
+### Comments
+
+I wouldn't worry about authentication or security for now, just the initial implementation would suffice. Making sure all the moving parts are in place.
 
 ## Client side
 
