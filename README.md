@@ -81,7 +81,9 @@ We will star the project together and discuss how we make it happen in the most 
 
 ## Prize
 
-TBD but it will be valued around 300-500$ (for the entire team. Probably Amazon gift cards).
+300$ in Amazon gift cards evenly shared across the team
+
+![Amazon gift cards](http://assets.avi.io/Web_Image_2017-08-10_17-16-27.png)
 
 ## Judges 
 
