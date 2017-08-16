@@ -8,7 +8,7 @@ It is simple enough to finish while also being complicated enough to be interest
 
 ## Who?
 
-This project came up as something that will benefit the members of [The Fullstack Network](https://fulllstack.network).
+This project came up as something that will benefit the members of [The Fullstack Network](https://fullstack.network).
 
 * [Twitch](https://twitch.tv/KensoDev)
 * [Discord](http://avi.io/discord)
